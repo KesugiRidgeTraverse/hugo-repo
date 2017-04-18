@@ -1,0 +1,6 @@
+languageCode = "en-us"
+title = "Kesugi Ridge Traverse"
+baseURL = "http://kesugiridgetraverse.com/"
+
+[params]
+  logo = "/img/kesugi-logo.png"
