@@ -10,4 +10,4 @@ weight = 21
 
 +++
 
-![Kesugi Ridge Course Map](/img/kesugi-course-map-2017.jpg)
+[![Kesugi Ridge Course Map](/img/kesugi-map-2017.jpg)](/img/kesugi-course-map-2017.pdf)
