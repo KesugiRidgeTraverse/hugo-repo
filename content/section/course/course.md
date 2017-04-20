@@ -9,20 +9,27 @@ weight = 20
 
 +++
 
-## Mount Sanford
+Point to point, starting at Little Coal Creek Trailhead and finishing at Byers Lake Campground. The course is approximately 30 miles. Good descriptions can be found in the hiking guides 55Ways to the Wilderness (5th edition) by Helen Nienhueser & John Wolfe Jr. and Hiking Alaska by Dean Littlepage.
 
-Mount Sanford is a shield volcano in the Wrangell Volcanic Field, in eastern Alaska near the Copper River. It is the third highest volcano in the United States behind Mount Bona and Mount Blackburn. The south face of the volcano, at the head of the Sanford Glacier, rises 8,000 feet (2,400 m) in 1 mile (1,600 m) resulting in one of the steepest gradients in North America.
+### A brief course description
+Starting around 1400 feet, the Full Traverse trail (nearly 30 miles) climbs steadily to above tree line to a high, alpine ridge. The trail is marked with cairns in most places. There will also be flagging and/or pin flags in some key sections. About halfway, the Ermine Hill Trail comes in from the right (elevation 1,500 feet). After the junction, the trail again climbs above tree line until it descends 5 miles to Byers Lake via the Cascade Trail.
 
-## Geology
+**NOTE:** The suspension bridge one mile from the finish has been removed so participants must wade across Byers Creek. It is only about 25 feet across and the water is slow-moving but potentially thigh- to waist-deep.
 
-Mount Sanford is mainly composed of andesite, and is an ancient peak, being mostly Pleistocene, although some of the upper parts of the mountain may be Holocene. The mountain first began developing 900,000 years ago, when it began growing on top of three smaller shield volcanoes that had coalesced. Two notable events in the mountain's history include a large lava flow which traveled some 11 miles (18 km) to the north east of the peak, and another flow which erupted from a rift zone on the flank of the volcano some 320,000 years ago. The second flow was basaltic in nature and marks the most recent activity of the volcano. The flow was dated using radiometric methods.
+The course will finish in the Byers Lake campground with food, drinks and awards. See pictures below for a couple of good visual directions.
+The Half Traverse trail (about 15.5 miles) follows the above route to its finish just uphill from the Ermine Hill Trail junction. Participants will then return 3.5 miles down the Ermine Hill Trail to the Parks Highway at their leisure. A shuttle will then return them to Byers Lake Campground.   
 
-## History
+**Please be aware.** This is not a course for beginning trail runners. There are significant climbs, tricky descents and difficult terrain. If you have never traveled the course, we strongly encourage you to do so before signing up. The trail will only have minimal markings, so familiarity with it will be important. Please do not overestimate your abilities! The weather has been inclement in past races, with cold temperatures, rain, snow, wind and low visibility occurring. The time and effort expended at Kesugi is comparable to running up to 2 marathons. If you are a road runner but have never tackled trail running, Kesugi is not for you. Steady running with some power hiking on the hills will be necessary to make the time cut-offs.
 
-The mountain was named in 1885 by Lieutenant Henry T. Allen of the U.S. Army after the Sanford family (Allen was a descendant of Reuben Sanford).
+## Visual Directions
+If you have run/hiked the trail before, the trail is fairly easy to follow. It may be problematic if visibility is poor, but if you have familiarity with the course, you should not get lost. Following are a couple of pictures to pay attention to:
 
-Mount Sanford was first climbed on July 21, 1938 by noted mountaineers Terris Moore and Bradford Washburn, via the still standard North Ramp route up the Sheep Glacier. This route "offers little technical difficulty" and "is a glacier hike all the way to the summit" but is still a serious mountaineering challenge (Alaska Grade 2) due to the altitude and latitude of the peak. The base of the route is usually accessed by air, but landing near the mountain is not straightforward.
+Once you pass the Ermine Hill intersection, you will climb up a hill and reach the trail seen below.
 
-On March 12, 1948, Northwest Airlines Flight 4422 crashed into Mount Sanford. All 24 passengers and 6 crew members were killed. The wreckage was quickly covered by snow and was not found again until 1999.[5]
+![Just after Ermine Hill intersection](/img/vis-dir-1.jpg)
 
-The first solo ascent of Sanford was achieved on September 19, 1968, by Japanese mountaineer Naomi Uemura, who later died just after making the first solo winter ascent of Denali.
+You will go around the big rock formation (located on your right) and see two open rock "doors" (picture below).
+
+![Go left after passing through the rocks](/img/vis-dir-2.jpg)
+
+Go between the doors and head down and to the left. DO NOT take a right at the two large rocks. It is a dead end and will result in up to two hours of wasted time.

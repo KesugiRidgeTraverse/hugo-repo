@@ -8,3 +8,5 @@ weight = 50
     identifier = "results"
 
 +++
+
+Results can be found on [UltraSignup](https://ultrasignup.com/results_event.aspx?did=40082)

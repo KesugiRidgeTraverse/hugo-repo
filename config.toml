@@ -4,3 +4,5 @@ baseURL = "http://kesugiridgetraverse.com/"
 
 [params]
   logo = "/img/kesugi-logo.png"
+  email = "matiasmountain@gmail.com"
+  phone = "907-529-4178"

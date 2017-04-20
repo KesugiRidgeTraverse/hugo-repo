@@ -1,8 +1,8 @@
 +++
 date = "2017-03-29T22:49:07-08:00"
 title = "Registration"
-partial = "content.html"
-weight = 30
+partial = "nav-only"
+weight = 40
 
 [menu.main]
     identifier = "registration"
